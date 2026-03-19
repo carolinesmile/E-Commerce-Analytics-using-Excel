@@ -1,4 +1,4 @@
-# E-Commerce-Analytics-using-Excel
+# E-Commerce Analytics using Excel
 📊 StellarMart Sales Analysis Dashboard
 
 ## Project Overview
